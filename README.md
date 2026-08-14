@@ -55,4 +55,4 @@ Add a graphical user interface
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/Anime631/student-management-systems.git
